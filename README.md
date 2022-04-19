@@ -1,1 +1,1 @@
-# faust-streaming-example
+# faust-streaming-example (DEV)
